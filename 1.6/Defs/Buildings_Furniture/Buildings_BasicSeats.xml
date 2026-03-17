@@ -52,7 +52,7 @@
       <graphicClass>Graphic_Single</graphicClass>
       <linkType>Basic</linkType>
       <linkFlags>
-        <li>Custom7</li>
+        <li>VFE_Benches</li>
       </linkFlags>
       <damageData>
         <rect>(0.30,0.15,0.4,0.6)</rect>
